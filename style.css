@@ -11,6 +11,10 @@ font-family: Arial, Helvetica, sans-serif;
 text-align: center;
 }
 
+.fundo h2 {
+    color: black;
+}
+
 .calculadora {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
